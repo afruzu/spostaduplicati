@@ -31,7 +31,7 @@ FINALIZZATI AL MIGLIORAMENTO DELLE PRESTAZIONI.
    ```
 3. Avvia il programma:
    ```bash
-   python spostaduplicati.py --source /percorso/cartella --dest /percorso/destinazione [--hash sha256]
+   python spostaduplicati.py --source /percorso/cartella --dest /percorso/destinazione
    ```
    - `--source` = cartella da analizzare
    - `--dest` = dove spostare i duplicati

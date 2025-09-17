@@ -35,12 +35,11 @@ FINALIZZATI AL MIGLIORAMENTO DELLE PRESTAZIONI.
    ```
    - `--source` = cartella da analizzare
    - `--dest` = dove spostare i duplicati
-   - `--hash` = algoritmo di hash: md5 (default) o sha256
+
 
 ### Esempio
 ```bash
-python spostaduplicati.py --source ./Documenti --dest ./Duplicati --hash sha256
-```
+python spostaduplicati.py --source ./Documenti --dest ./Duplicati 
 
 
 ## 💡 Suggerimenti e feedback

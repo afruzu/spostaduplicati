@@ -10,6 +10,11 @@ Ti verrà chiesto di selezionare:
 Il processo è piuttosto lungo se ci sono molti files, ti ricordo di ASPETTARE il riquadro che segnala la fine del processo oltre che di confermare i passaggi intermedi quando richiesto.
   
 
-NIENTE VIENE CANCELLATO O RIMOSSO, SOLTANTO SPOSTATO. SPERO CHE QUESTA APPLICAZIONE TI SIA UTILE
+NIENTE VIENE CANCELLATO O RIMOSSO, SOLTANTO SPOSTATO. 
+
+SPERO CHE QUESTA APPLICAZIONE TI SIA UTILE 
+
+RINGRAZIO ANCHE CHIUNQUE VOGLIA DARE DEI SUGGERIMENTI O CRITICHE COSTRUTTIVE,
+FINALIZZATI AL MIGLIORAMENTO DELLE PRESTAZIONI.
 
 

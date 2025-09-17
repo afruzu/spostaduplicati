@@ -1,4 +1,4 @@
-Questo script python individua e sposta duplicati di files multimediali, documenti e file compressi.
+Questo script PYTHON individua e sposta duplicati di files multimediali, documenti e file compressi.
 
 In particolare il programma analizza file multimediali, documenti in pdf e di word/excel e files compressi contenuti in una determinata cartella a scelta (immagini, video, audio, documenti, compressi), identifica eventuali duplicati,
  genera un file CSV esaminabile per controllo in Excel, sposta i duplicati in un'altra cartella sempre a tua scelta e crea un report HTML interattivo che ti permetterà di vedere i files duplicati spostati.
